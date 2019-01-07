@@ -1,0 +1,72 @@
+{
+  "_from": "cordova-plugin-mfp-push@^8.0.2017082110",
+  "_id": "cordova-plugin-mfp-push@8.0.2018030609",
+  "_inBundle": false,
+  "_integrity": "sha1-ZalrKadHrAitwX8pdjdDtufJV1Y=",
+  "_location": "/cordova-plugin-mfp-push",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "cordova-plugin-mfp-push@^8.0.2017082110",
+    "name": "cordova-plugin-mfp-push",
+    "escapedName": "cordova-plugin-mfp-push",
+    "rawSpec": "^8.0.2017082110",
+    "saveSpec": null,
+    "fetchSpec": "^8.0.2017082110"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-mfp-push/-/cordova-plugin-mfp-push-8.0.2018030609.tgz",
+  "_shasum": "65a96b29a747ac08adc17f29763743b6e7c95756",
+  "_spec": "cordova-plugin-mfp-push@^8.0.2017082110",
+  "_where": "/Users/kavithavaradarajan/MFP8/CommunityHealthDemo-Ionic3/node_modules",
+  "author": {
+    "name": "IBM"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-mfp-push",
+    "platforms": [
+      "android",
+      "ios",
+      "windows"
+    ]
+  },
+  "deprecated": false,
+  "description": "Cordova Plugin for the IBM MobileFirst Platform Foundation Push",
+  "engines": [
+    {
+      "name": "cordova-android",
+      "version": ">=5.0.0 <6"
+    },
+    {
+      "name": "cordova-ios",
+      "version": ">=4.0.1 <5"
+    },
+    {
+      "name": "cordova-plugman",
+      "version": ">=6.0.0 <7"
+    }
+  ],
+  "keywords": [
+    "cordova",
+    "ibm",
+    "worklight",
+    "mobilefirst",
+    "mfp",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "cordova-windows"
+  ],
+  "license": "SEE LICENSE IN LICENSE.TXT",
+  "name": "cordova-plugin-mfp-push",
+  "repository": {
+    "type": "git",
+    "url": "https://git.ng.bluemix.net/ibmmfpf/cordova-plugin-mfp-push"
+  },
+  "version": "8.0.2018030609"
+}

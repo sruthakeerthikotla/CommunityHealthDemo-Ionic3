@@ -1,0 +1,90 @@
+{
+  "_from": "cordova-plugin-mfp-jsonstore@^8.0.2017082110",
+  "_id": "cordova-plugin-mfp-jsonstore@8.0.2018021611",
+  "_inBundle": false,
+  "_integrity": "sha1-Iat4jJFa1SUblsWJ5Ro6AeSE/aE=",
+  "_location": "/cordova-plugin-mfp-jsonstore",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "cordova-plugin-mfp-jsonstore@^8.0.2017082110",
+    "name": "cordova-plugin-mfp-jsonstore",
+    "escapedName": "cordova-plugin-mfp-jsonstore",
+    "rawSpec": "^8.0.2017082110",
+    "saveSpec": null,
+    "fetchSpec": "^8.0.2017082110"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-mfp-jsonstore/-/cordova-plugin-mfp-jsonstore-8.0.2018021611.tgz",
+  "_shasum": "21ab788c915ad5251b96c589e51a3a01e484fda1",
+  "_spec": "cordova-plugin-mfp-jsonstore@^8.0.2017082110",
+  "_where": "/Users/kavithavaradarajan/MFP8/CommunityHealthDemo-Ionic3/node_modules",
+  "author": {
+    "name": "IBM"
+  },
+  "bundleDependencies": [
+    "ibm-strings",
+    "mfp-config-xml",
+    "shelljs",
+    "npmlog",
+    "xcode"
+  ],
+  "cordova": {
+    "id": "cordova-plugin-mfp-jsonstore",
+    "platforms": [
+      "android",
+      "ios",
+      "windows"
+    ]
+  },
+  "dependencies": {
+    "ibm-strings": "~0.1.0",
+    "mfp-config-xml": "0.0.1",
+    "npmlog": "0.0.6",
+    "shelljs": "0.3.0",
+    "xcode": "0.8.7"
+  },
+  "deprecated": false,
+  "description": "IBM MobileFirst Platform Foundation Cordova Plugin JSONStore",
+  "engines": [
+    {
+      "name": "cordova-android",
+      "version": ">=6.1.2 <7"
+    },
+    {
+      "name": "cordova-ios",
+      "version": ">=4.1.1 <5"
+    },
+    {
+      "name": "cordova-windows",
+      "version": ">=4.3.2 <6"
+    },
+    {
+      "name": "cordova-plugman",
+      "version": ">=6.1.1 <7"
+    }
+  ],
+  "keywords": [
+    "cordova",
+    "ibm",
+    "worklight",
+    "mobilefirst",
+    "mfp",
+    "jsonstore",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "cordova-windows"
+  ],
+  "license": "SEE LICENSE IN LICENSE.TXT",
+  "name": "cordova-plugin-mfp-jsonstore",
+  "repository": {
+    "type": "git",
+    "url": "https://git.ng.bluemix.net/ibmmfpf/cordova-plugin-mfp-jsonstore/tree/master"
+  },
+  "version": "8.0.2018021611"
+}
